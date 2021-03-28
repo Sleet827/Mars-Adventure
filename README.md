@@ -10,3 +10,5 @@ Features:
 
 Note: Although not completely, some ideas might be a work of fiction.
 (Looks like I will have to research for a long tim e :(:()
+
+Current Version: Aplha-pre 0.1
