@@ -9,4 +9,4 @@ Features:
 3. Interact with other robots and see the data they have gathered, if the company approves so.
 
 Note: Although not completely, some ideas might be a work of fiction.
-(Looks like I wiill have to research for a long tim e :(:()
+(Looks like I will have to research for a long tim e :(:()
