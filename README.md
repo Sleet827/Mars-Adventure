@@ -1,6 +1,6 @@
 # Mars Adventure
 
-A third-person controller game in which a robot launched by "P3D Space Organization" explores Mars.
+A third-person controller game in which a robot launched by "Panda3D Space Organization" explores Mars.
 Discover new things about Mars, and find out old things by accessing the memory of previous robots sent to Mars
 
 Features:
